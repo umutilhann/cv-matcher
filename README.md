@@ -117,5 +117,5 @@ TF-IDF (Term Frequency–Inverse Document Frequency) gives higher weight to word
 
 ## 👤 Author
 
-**Umut**  
+**Umut ILHAN**  
 Computer Engineering Student — Omer Halisdemir University  
