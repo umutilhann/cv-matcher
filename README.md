@@ -8,7 +8,14 @@ Built as an AI course project using Python, scikit-learn, spaCy, and Streamlit.
 
 ## 📸 Demo
 
-![CV Matcher Demo](demo.png)
+### Ana Ekran
+![Ana Ekran](Image1.png)
+
+### Uyum Skorları
+![Bar Chart](Image2.png)
+
+### Eşleşme Detayları
+![Detaylar](Image3.png)
 
 ---
 
